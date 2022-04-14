@@ -1,0 +1,7 @@
+ManifestFileVersion: 0
+CRC: 609083962
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: cubix
+      Dependencies: {}
